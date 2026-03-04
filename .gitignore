@@ -13,6 +13,9 @@ build/
 # Data (user accounts, books, activity logs)
 backend/data/
 
+# Sample EPUB assets
+frontend/public/sample_assets/epubs/
+
 # Environment variables
 .env
 .env.local
