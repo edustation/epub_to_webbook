@@ -1,0 +1,184 @@
+{
+    "mappings": [
+        {
+            "id": "1",
+            "title": "따라오게, 신입생! 친절한 박선배의 대학생활 한국어",
+            "epub": "univ_freshman.epub",
+            "cover": "univ_freshman.jpeg"
+        },
+        {
+            "id": "2",
+            "title": "따라오게, 대학원생! 친절한 랩짱의 연구실 졸업 한국어",
+            "epub": "grad_student.epub",
+            "cover": "grad_student.jpeg"
+        },
+        {
+            "id": "3",
+            "title": "따라오게, 룸메! 친절한 RA의 기숙사 한국어",
+            "epub": "dorm_life.epub",
+            "cover": "dorm_life.jpeg"
+        },
+        {
+            "id": "4",
+            "title": "따라오게, 환자분! 친절한 간호사의 병원 한국어",
+            "epub": "hospital_nurse.epub",
+            "cover": "hospital_nurse.jpeg"
+        },
+        {
+            "id": "5",
+            "title": "따라오게, 고객님! 친절한 약사의 약국 한국어",
+            "epub": "pharmacy_guide.epub",
+            "cover": "pharmacy_guide.jpeg"
+        },
+        {
+            "id": "6",
+            "title": "따라오게, 환자분! 친절한 치위생사의 치과 한국어",
+            "epub": "dental_clinic.epub",
+            "cover": "dental_clinic.jpeg"
+        },
+        {
+            "id": "7",
+            "title": "따라오게, 신입알바! 친절한 매니저의 카페 한국어",
+            "epub": "cafe_parttime.epub",
+            "cover": "cafe_parttime.jpeg"
+        },
+        {
+            "id": "8",
+            "title": "따라오게, 신입알바! 친절한 점장의 편의점 한국어",
+            "epub": "store_parttime.epub",
+            "cover": "store_parttime.jpeg"
+        },
+        {
+            "id": "9",
+            "title": "따라오게, 라이더! 친절한 팀장의 배달 한국어",
+            "epub": "delivery_rider.epub",
+            "cover": "delivery_rider.jpeg"
+        },
+        {
+            "id": "10",
+            "title": "따라오게, 신입! 친절한 프론트의 호텔 한국어",
+            "epub": "hotel_front.epub",
+            "cover": "hotel_front.jpeg"
+        },
+        {
+            "id": "11",
+            "title": "따라오게, 세입자! 친절한 중개사의 부동산 한국어",
+            "epub": "real_estate.epub",
+            "cover": "real_estate.jpeg"
+        },
+        {
+            "id": "12",
+            "title": "따라오게, 고객님! 친절한 은행원의 금융 한국어",
+            "epub": "bank_finance.epub",
+            "cover": "bank_finance.jpeg"
+        },
+        {
+            "id": "13",
+            "title": "따라오게, 체류자! 친절한 행정사의 비자 한국어",
+            "epub": "visa_admin.epub",
+            "cover": "visa_admin.jpeg"
+        },
+        {
+            "id": "14",
+            "title": "따라오게, 연습생! 친절한 강사의 운전면허 한국어",
+            "epub": "driving_license.epub",
+            "cover": "driving_license.jpeg"
+        },
+        {
+            "id": "15",
+            "title": "따라오게, 고객님! 친절한 기사의 AS/수리 한국어",
+            "epub": "repair_service.epub",
+            "cover": "repair_service.jpeg"
+        },
+        {
+            "id": "16",
+            "title": "따라오게, 고객님! 친절한 MD의 쇼핑 한국어",
+            "epub": "shopping_md.epub",
+            "cover": "shopping_md.jpeg"
+        },
+        {
+            "id": "17",
+            "title": "따라오게, 구매자! 친절한 셀러의 온라인쇼핑 한국어",
+            "epub": "online_seller.epub",
+            "cover": "online_seller.jpeg"
+        },
+        {
+            "id": "18",
+            "title": "따라오게, 자취생! 친절한 고수의 배달음식 한국어",
+            "epub": "delivery_food.epub",
+            "cover": "delivery_food.jpeg"
+        },
+        {
+            "id": "19",
+            "title": "따라오게, 개발자! 친절한 테크리드의 IT 한국어",
+            "epub": "it_developer.epub",
+            "cover": "it_developer.jpeg"
+        },
+        {
+            "id": "20",
+            "title": "따라오게, 신입! 친절한 반장의 공장 한국어",
+            "epub": "factory_worker.epub",
+            "cover": "factory_worker.jpeg"
+        },
+        {
+            "id": "21",
+            "title": "따라오게, 신입! 친절한 현장소장의 건설현장 한국어",
+            "epub": "construction_site.epub",
+            "cover": "construction_site.jpeg"
+        },
+        {
+            "id": "22",
+            "title": "따라오게, 조리사! 친절한 조리장의 급식/요리 한국어",
+            "epub": "cooking_chef.epub",
+            "cover": "cooking_chef.jpeg"
+        },
+        {
+            "id": "23",
+            "title": "따라오게, 디자이너! 친절한 원장의 미용실 한국어",
+            "epub": "hair_designer.epub",
+            "cover": "hair_designer.jpeg"
+        },
+        {
+            "id": "24",
+            "title": "따라오게, 귀농인! 친절한 이장의 농업 한국어",
+            "epub": "farming_village.epub",
+            "cover": "farming_village.jpeg"
+        },
+        {
+            "id": "25",
+            "title": "따라오게, 학부모! 친절한 담임쌤의 학교 한국어",
+            "epub": "school_parent.epub",
+            "cover": "school_parent.jpeg"
+        },
+        {
+            "id": "26",
+            "title": "따라오게, 예비부부! 친절한 플래너의 결혼 한국어",
+            "epub": "wedding_planner.epub",
+            "cover": "wedding_planner.jpeg"
+        },
+        {
+            "id": "27",
+            "title": "따라오게, 직장인! 친절한 총무의 경조사 한국어",
+            "epub": "office_event.epub",
+            "cover": "office_event.jpeg"
+        },
+        {
+            "id": "28",
+            "title": "따라오게, 회원님! 친절한 회장의 모임 한국어",
+            "epub": "community_club.epub",
+            "cover": "community_club.jpeg"
+        },
+        {
+            "id": "29",
+            "title": "따라오게, 회원님! 친절한 트레이너의 헬스 한국어",
+            "epub": "gym_trainer.epub",
+            "cover": "gym_trainer.jpeg"
+        },
+        {
+            "id": "30",
+            "title": "따라오게, 팬이여! 친절한 팬계정의 덕질 한국어",
+            "epub": "kpop_fandom.epub",
+            "cover": "kpop_fandom.jpeg"
+        }
+    ]
+}

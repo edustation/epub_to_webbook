@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="BookId">urn:uuid:university-life-korean-1770179694458</dc:identifier>
+    <dc:title>따라오게, 신입생! 친절한 박선배의 대학생활 한국어</dc:title>
+    <dc:creator>BizBook</dc:creator>
+    <dc:language>ko</dc:language>
+    <dc:publisher>BizBook Publishing</dc:publisher>
+    <dc:description>외국인 유학생을 위한 실전 대학생활 한국어 교재</dc:description>
+    <meta property="dcterms:modified">2026-02-04T04:34:54Z</meta>
+  </metadata>
+  <manifest>
+    <item id="cover-image" href="images/cover.jpeg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="css" href="styles.css" media-type="text/css"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="chapter1" href="chapter-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter2" href="chapter-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter3" href="chapter-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter4" href="chapter-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter5" href="chapter-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter6" href="chapter-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter7" href="chapter-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter8" href="chapter-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter9" href="chapter-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter10" href="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter11" href="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="img1" href="images/comic-01.jpeg" media-type="image/jpeg"/>
+    <item id="img2" href="images/comic-02.jpeg" media-type="image/jpeg"/>
+    <item id="img3" href="images/comic-03.jpeg" media-type="image/jpeg"/>
+    <item id="img4" href="images/comic-04.jpeg" media-type="image/jpeg"/>
+    <item id="img5" href="images/comic-05.jpeg" media-type="image/jpeg"/>
+    <item id="img6" href="images/comic-06.jpeg" media-type="image/jpeg"/>
+    <item id="img7" href="images/comic-07.jpeg" media-type="image/jpeg"/>
+    <item id="img8" href="images/comic-08.jpeg" media-type="image/jpeg"/>
+    <item id="img9" href="images/comic-09.jpeg" media-type="image/jpeg"/>
+    <item id="img10" href="images/comic-10.jpeg" media-type="image/jpeg"/>
+  </manifest>
+  <spine>
+    <itemref idref="cover"/>
+    <itemref idref="nav"/>
+    <itemref idref="chapter1"/>
+    <itemref idref="chapter2"/>
+    <itemref idref="chapter3"/>
+    <itemref idref="chapter4"/>
+    <itemref idref="chapter5"/>
+    <itemref idref="chapter6"/>
+    <itemref idref="chapter7"/>
+    <itemref idref="chapter8"/>
+    <itemref idref="chapter9"/>
+    <itemref idref="chapter10"/>
+    <itemref idref="chapter11"/>
+  </spine>
+</package>
